@@ -183,7 +183,7 @@
     { year: "2024", title: "Khám phá Công nghệ thông tin", desc: "Bắt đầu tìm hiểu về thế giới công nghệ và những điều thú vị xoay quanh máy tính." },
     { year: "2025", title: "Tìm hiểu lập trình và phát triển website và bảo mật mạng", desc: "Tự Học những kiến thức nền tảng về lập trình và bắt đầu xây dựng các sản phẩm chống hacker cùng với đó là nghiên cứu và phát trển những software attack and defense." },
     { year: "04/2026", title: "Tìm hiểu chuyên sâu về những cách tấn công và phòng thủ khi gặp tội phạm mạng", desc: "Tạo ra sản phẩm điều tra tội phạm mạng nho nhỏ và cùng với Cục an ninh mạng đánh chặn những web giả hay lừa đảo xuyên biên giới với quy mô nhỏ và vừa." },
-    { year: "10/2026", title: "Tìm hiểu chuyên sâu về ẩn mình của hacker", desc: "Tìm kiếm những thông tin hữu ích về tội phạm mạng và tìm hiểu chuyên sâu hơn về cách phòng thủ và giấu kín và của hacker." }
+    { year: "10/2026", title: "Tìm hiểu chuyên sâu về ẩn mình của hacker", desc: "Tìm kiếm những thông tin hữu ích về tội phạm mạng và tìm hiểu chuyên sâu hơn về cách phòng thủ và giấu kín và của hacker.Và cùng tháng này mình đã làm ra web dành tặng các bạn nữ đầu tiên, mặc dù có nhiều sai sót nhưng cũng là thành quả của mình rồi" }
   ];
 
   /* #hanhat_code_ — DOM refs */
