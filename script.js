@@ -14,8 +14,8 @@
       "Cybersecurity Learner",
       "Dreamer"
     ],
-    facebook: "https://www.facebook.com/ha.nhat.11082011/",
-    tiktok: "https://www.tiktok.com/@hanhat_huster"
+    facebook: "https://www.facebook.com/NguyenCuongg11/",
+    tiktok: "https://www.tiktok.com/@nguyen.cuongg11"
   };
 
   /* #hanhat_code_ — Thông tin trường học (chi tiết) */
